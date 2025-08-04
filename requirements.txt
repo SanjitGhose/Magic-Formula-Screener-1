@@ -1,0 +1,6 @@
+yfinance
+aiohttp
+streamlit
+pandas
+numpy
+matplotlib
